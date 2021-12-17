@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://Rutvik:rutvik%4018@devconnector.v5cuu.mongodb.net/Rutvik?retryWrites=true&w=majority",
+    "jwtSecret":"mysecrettoken"
+}
